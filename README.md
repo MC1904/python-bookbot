@@ -1,2 +1,3 @@
 # python-bookbot
-"My first Python Bookbot"
+
+This project is my first Python Bookbot!
